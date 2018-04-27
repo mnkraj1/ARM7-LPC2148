@@ -1,2 +1,2 @@
 # ARM7-LPC2148
-LPC 2148 firmware programming
+1. Switch Interfacing using External Interrupt
